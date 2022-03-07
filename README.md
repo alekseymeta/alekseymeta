@@ -10,5 +10,4 @@
 ##### ABOUT ME
 
 - ⚙️ I use daily: `.php`, `.python`, `.js`, `.vue`, `.html`, `.css`, `.psd`, `.ai`
-- 🌱 Learning all about **Open Source**
 - 📸 Check my Instagram: [@alekseymeta](https://instagram.com/alekseymeta)
