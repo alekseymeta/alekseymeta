@@ -12,6 +12,7 @@
 - ⚙️ I use daily: `.php`, `.python`, `.js`, `.vue`, `.html`, `.css`, `.psd`, `.ai`
 - 📸 Check my Instagram: [@alekseymeta](https://instagram.com/alekseymeta)
 
+<br/>
 
 [![codewars](https://www.codewars.com/users/aleksey.meta/badges/small)](https://www.codewars.com/users/aleksey.meta) 
 
