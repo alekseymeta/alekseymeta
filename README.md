@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> Hey! Nice to see u! 
+### Hey! Nice to see u! 
 #### I'm Aleksey from St.Peterburg.
 
 <br/>
