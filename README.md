@@ -14,11 +14,3 @@
 <br/>
 
 [![codewars](https://www.codewars.com/users/aleksey.meta/badges/small)](https://www.codewars.com/users/aleksey.meta) 
-
-##### PROJECTS
-
-- www.tiktoksaver.online
-- https://alekseymeta.github.io/ai-chat-bot/
-- https://alekseymeta.github.io/ecommerce/
-- https://alekseymeta.github.io/ip-weather/
-- http://www.anonogram.dich.tech/
